@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: I'm Weiran from Shanghai, China. Currently I am 26 yrs old studying in UBC at Master of Data Science program. It was a big challenge for me since I don't have any background of coding. Wish me good luck!
+        text: I'm Weiran from Shanghai, China. Currently I am 26 yrs old studying in UBC at Master of Data Science program. It was a big challenge for me. Wish me good luck!
 
 format:
   html:
